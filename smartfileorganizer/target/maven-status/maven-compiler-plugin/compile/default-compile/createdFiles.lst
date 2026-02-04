@@ -1,0 +1,5 @@
+com\smartfileorganizer\smartfileorganizer\controller\FileController.class
+com\smartfileorganizer\smartfileorganizer\repository\FileInfoRepository.class
+com\smartfileorganizer\smartfileorganizer\entity\FileInfo.class
+com\smartfileorganizer\smartfileorganizer\service\FileOrganizerService.class
+com\smartfileorganizer\smartfileorganizer\SmartfileorganizerApplication.class
